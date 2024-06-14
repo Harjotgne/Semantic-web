@@ -1,0 +1,97 @@
+.container{
+    width: 1170px;
+    height: auto;
+    margin: 0 auto;
+}
+.container .header{
+    width: 1170px;
+    height: 100px;
+    background: lightpink;
+    font-size: 30px;
+    text-align: center;
+    text
+}
+.container .content1{
+    width: 292.5px;
+    height: 100px;
+    background: lightblue;
+    float: left;
+}
+.container .content2{
+    width: 292.5px;
+    height: 100px;
+    background: lightcoral;
+    float: left;
+}
+.container .content3{
+    width: 292.5px;
+    height: 100px;
+    background: lightcyan;
+    float: left;
+}
+.container .content4{
+    width: 292.5px;
+    height: 100px;
+    background: lightgray;
+    float: left;
+}
+.container .content5{
+    width: 292.5px;
+    height: 100px;
+    background: lightslategray;
+    float: left;
+}
+.container .content6{
+    width: 292.5px;
+    height: 100px;
+    background: lightskyblue;
+    float: left;
+}
+.container .content7{
+    width: 584.4px;
+    height: 100px;
+    background: lightsalmon;
+    float: left;
+}
+.container .content8{
+    width: 584.4px;
+    height: 100px;
+    background: blanchedalmond;
+    float: left;
+}
+.container .content9{
+    width: 292.5px;
+    height: 100px;
+    background: blueviolet;
+    float: left;
+}
+.container .content10{
+    width: 292.5px;
+    height: 100px;
+    background: lightgray;
+    float: left;
+}
+.container .content11{
+    width: 292.5px;
+    height: 100px;
+    background: yellowgreen;
+    float: left;
+}
+.container .content12{
+    width: 584.4px;
+    height: 100px;
+    background: rebeccapurple;
+    float: left;
+}
+.container .content13{
+    width: 292.5px;
+    height: 100px;
+    background: blueviolet;
+    float: left;
+}
+.container .content14{
+    width: 1170px;
+    height: 100px;
+    background: green;
+    float: left;
+}
