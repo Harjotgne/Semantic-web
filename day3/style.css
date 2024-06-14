@@ -1,0 +1,32 @@
+.container{
+    width: 1170px;
+    height: auto;
+
+}
+
+
+
+.container .navbar{
+    
+    
+}
+.navbar ul{
+    list-style-type: none;
+    
+}
+.navbar ul li{
+    
+}
+.navbar ul li a{
+    text-decoration: none;
+    float: left;
+    background: black;
+    padding: 10px 20px;
+    color: aqua;
+    
+   
+}
+.navbar ul li a:hover{
+    background: palevioletred;
+    color: red;
+}
