@@ -1,11 +1,11 @@
 {
-    "name":"Akash",
+    "name":"harjot",
     "marks":78,
     "date":"2024-05-24",
-    "courses":["Dart","Kotlin","Flutter","Ionic"],
+    "courses":["React","Next","Node","Ionic"],
     "address":{
-        "city":"NDLS",
-        "area":"Anand Vihar",
+        "city":"ldh",
+        "area":"Rara sahib",
         "pin":34434,
         "lon":80.2323,
         "lat":45.5454
