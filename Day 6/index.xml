@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
 <student1>
- <name>Akash</name>
+ <name>Harjot</name>
  <Study>12</Study>
+ <class>CSE</class>
 
 </student1> 
 
 <student2>
  <name>Vinod</name>
  <Study>12</Study>
+ <class>CSE</class>
 
 </student2> 
 </result>
